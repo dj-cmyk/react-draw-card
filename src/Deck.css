@@ -1,0 +1,29 @@
+#card-container {
+    position: relative;
+    width: 75%;
+    padding: 15px;
+}
+
+.card {
+    position: absolute;
+}
+
+.card-rotate0 {
+    transform: rotate(0deg)
+}
+
+.card-rotate1 {
+    transform: rotate(15deg)
+}
+
+.card-rotate2 {
+    transform: rotate(38deg)
+}
+
+.card-rotate3 {
+    transform: rotate(-12deg)
+}
+
+.card-rotate4 {
+    transform: rotate(-25deg)
+}
